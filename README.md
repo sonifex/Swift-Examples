@@ -7,7 +7,7 @@ I am open your to-do suggestions also.
 
 ## TO-DO
 
-* Optinals
+* Optionals
 * Closures
 * Enum & Struct
 * Networking
