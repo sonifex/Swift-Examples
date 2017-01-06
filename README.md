@@ -11,7 +11,7 @@ I am open your to-do suggestions also.
 * Closures
 * Enum & Struct
 * [Networking](docs/networking.md)
-* JSON Parse
+* [JSON Parsing] (docs/networking.md#json-parsing-ugly-way)
 * TableView & CollectionView Usage
 * .
 * .
